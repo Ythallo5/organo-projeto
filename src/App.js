@@ -36,7 +36,7 @@ function App() {
       corSecundaria: "#FFF5D9",
     },
     {
-      nome: "Inovação e Gestão",
+      nome: "Time de Inovação e Gestão",
       corPrimaria: "#FF8A29",
       corSecundaria: "#FFEEDF",
     },
